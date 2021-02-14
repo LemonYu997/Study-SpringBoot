@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57069cda-21d8-40dc-be3f-57e0df265dee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven_jar" />
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="skipTests" value="true" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1oILAof9gpvmcLQ16OaoNvIeSgE" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="app.service" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Java\Project\springboot\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RedisTest.test">
+    <configuration name="RedisTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="app.redis" />
+      <option name="MAIN_CLASS_NAME" value="app.redis.RedisTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.queryById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="app.service" />
+      <option name="MAIN_CLASS_NAME" value="app.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="queryById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.saveUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="app.service" />
+      <option name="MAIN_CLASS_NAME" value="app.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="saveUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="app.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RedisTest.test" />
+        <item itemvalue="JUnit.UserServiceTest.saveUser" />
+        <item itemvalue="JUnit.UserServiceTest.queryById" />
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57069cda-21d8-40dc-be3f-57e0df265dee" name="Default Changelist" comment="" />
+      <created>1612969016746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612969016746</updated>
+      <workItem from="1612969020018" duration="1355000" />
+      <workItem from="1613010377549" duration="55000" />
+      <workItem from="1613010451158" duration="69000" />
+      <workItem from="1613010535776" duration="7338000" />
+      <workItem from="1613132064761" duration="2069000" />
+      <workItem from="1613141904917" duration="2895000" />
+      <workItem from="1613179974159" duration="9497000" />
+      <workItem from="1613224270978" duration="546000" />
+      <workItem from="1613224872689" duration="6050000" />
+      <workItem from="1613269485178" duration="15444000" />
+      <workItem from="1613313610241" duration="217000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1103" y="255" key="#Project_Structure" timestamp="1613222263199">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1103" y="255" key="#Project_Structure/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1613222263199" />
+    <state x="1372" y="288" key="#com.intellij.ide.util.MemberChooser" timestamp="1613231495220">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1372" y="288" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1613231495220" />
+    <state x="1049" y="530" width="503" height="343" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1612969473225">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1049" y="530" width="503" height="343" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1612969473225" />
+    <state width="1781" height="344" key="GridCell.Tab.0.bottom" timestamp="1613313595714">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1781" height="344" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1613313595714" />
+    <state width="1781" height="344" key="GridCell.Tab.0.center" timestamp="1613313595714">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1781" height="344" key="GridCell.Tab.0.center/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1613313595714" />
+    <state width="1781" height="344" key="GridCell.Tab.0.left" timestamp="1613313595714">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1781" height="344" key="GridCell.Tab.0.left/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1613313595714" />
+    <state width="1781" height="344" key="GridCell.Tab.0.right" timestamp="1613313595714">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1781" height="344" key="GridCell.Tab.0.right/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1613313595714" />
+    <state width="1781" height="344" key="GridCell.Tab.1.bottom" timestamp="1613307130539">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1781" height="344" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1613307130539" />
+    <state width="1781" height="344" key="GridCell.Tab.1.center" timestamp="1613307130539">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1781" height="344" key="GridCell.Tab.1.center/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1613307130539" />
+    <state width="1781" height="344" key="GridCell.Tab.1.left" timestamp="1613307130539">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1781" height="344" key="GridCell.Tab.1.left/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1613307130539" />
+    <state width="1781" height="344" key="GridCell.Tab.1.right" timestamp="1613307130539">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1781" height="344" key="GridCell.Tab.1.right/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1613307130539" />
+    <state x="299" y="409" key="SettingsEditor" timestamp="1613313522473">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="299" y="409" key="SettingsEditor/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1613313522473" />
+    <state x="917" y="479" key="com.intellij.ide.util.TipDialog" timestamp="1613313702142">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="917" y="479" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1613313702142" />
+    <state x="1303" y="304" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1613306412403">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1303" y="304" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1613306412403" />
+    <state x="1247" y="335" width="840" height="1034" key="search.everywhere.popup" timestamp="1613311762382">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1247" y="335" width="840" height="1034" key="search.everywhere.popup/0.0.2560.1400/-1440.-557.1440.2520@0.0.2560.1400" timestamp="1613311762382" />
+  </component>
+</project>
